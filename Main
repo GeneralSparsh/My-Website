@@ -1,0 +1,121 @@
+<!DOCTYPE HTML>
+<!--
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Dimension by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="logo">
+							<span class="icon fa-gem"></span>
+						</div>
+						<div class="content">
+							<div class="inner">
+								<h1>This Is Sparsh</h1>
+								
+							</div>
+						</div>
+						<nav>
+							<ul>
+								<li><a href="#intro">Intro</a></li>
+								<li><a href="#work">Work</a></li>
+								<li><a href="#about">About</a></li>
+								<li><a href="#contact">Contact</a></li>
+								<!--<li><a href="#elements">Elements</a></li>-->
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Intro -->
+							<article id="intro">
+								<h2 class="major">Intro</h2>
+								<span class="image main"><img src="C:\Users\Spars\Desktop\porject\images\Me.jpg" alt="" /></span>
+								<p> <a href="#work"></a></p>
+								<p>Hey everyone, Sparsh this side 
+									So, my full name is Sparsh Sahu... 
+									I've done my schooling from DPS Bilaspur, And bilaspur is my home town.
+									Currently i'm studying at SSTC and i'm doing BTech and specialzation in CSE AI.
+									I was the House caption in my school and was a Great student indeed and was loved by all the teachers...</p>
+							</article>
+
+						<!-- Work -->
+							<article id="work">
+								<h2 class="major">Work</h2>
+								<span class="image main"><img src="C:\Users\Spars\Desktop\porject\images\images (6).jpeg" alt="" /></span>
+								<p> And... 
+									
+									About my work experience, I've been learning java and python in pas 2 years while in pandamic.
+									I was actually kinda of bored during the pandamic so i decided to learn new things.
+									I already intrest in coding and wanted to know how games work and how are they created.
+									In pandamic we all enjoyed online games and to be honest even i did enjoyed them.
+									
+									I've done online courses like kotlin to enhance my skills.
+							
+								
+
+								</p>
+							</article>
+
+						<!-- About -->
+							<article id="about">
+								<h2 class="major">About</h2>
+								<span class="image main"><img src="C:\Users\Spars\Desktop\porject\images\images (7).jpeg" alt="" /></span>
+								<p>About me...
+									I've enrolled myself for graduation in Shri Shankracharaya Technical Campus.
+									About my family, we are four members in my family. My father is a civil engineer and my mother is a housewife.
+									I have one younger brother. My hobbies are watching movies, listening to music, playing badminton, reading interesting facts about mey tech stuff and helping Needy person.
+									I am a kind of a person who believes in honesty and punctuality.So that was about me...
+
+									My uncle is in Sydney and he's a software developer there... so i've always seen him hi on hs laptop and while i was young i always wanted to be like him because he earns well and is alwas on his laptop.
+									So this is how it all started.
+								</p>
+							</article>
+
+						<!-- Contact -->
+							<article id="contact">
+								<h2 class="major">Contact</h2>
+								<form method="post" action="#">
+									<div class="fields">
+										<div class="field half">
+											<label for="name">Name</label>
+											<input type="text" name="name" id="name" />
+										</div>
+										<div class="field half">
+											<label for="email">Email</label>
+											<input type="text" name="email" id="email" />
+										</div>
+										<div class="field">
+											<label for="message">Message</label>
+											<textarea name="message" id="message" rows="4"></textarea>
+										</div>
+									</div>
+									<ul class="actions">
+										<li><input type="submit" value="Send Message" class="primary" /></li>
+										<li><input type="reset" value="Reset" /></li>
+									</ul>
+								</form>
+								<ul class="icons">
+									<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+									<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+									<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+									<li><a href="#" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+							</article>
+
+						
